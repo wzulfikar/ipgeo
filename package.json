@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": "12.x"
+  },
+  "devDependencies": {
+    "now": "^20.1.2"
+  },
+  "dependencies": {
+    "geoip-lite": "^1.4.2",
+    "request-ip": "^2.1.3"
+  }
+}
